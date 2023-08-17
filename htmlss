@@ -1,0 +1,16 @@
+<section class="banner">
+
+<h2 class="banner__titulo">melissa benoist </h2>
+
+<p class="banner__text">
+
+quem foi melissa benoist??
+
+</p>
+
+<input type="search" class="banner__pesquisa"
+
+placeholder="melissa benoist nasceu nos estados unidos">
+
+</section>
+.banner{
